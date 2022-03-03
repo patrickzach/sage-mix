@@ -1,6 +1,7 @@
 /node_modules
 /vendor
-/public
+/public/*
+!/public/entrypoints.json
 .env
 npm-debug.log
 yarn-error.log
