@@ -1,0 +1,20 @@
+{
+  "name": "sagely",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://roots.io/sage/\">     <img alt=\"Sage\" src=\"https://cdn.roots.io/app/uploads/logo-sage.svg\" height=\"100\">   </a> </p>",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "browser-sync": "^2.27.7",
+    "browser-sync-webpack-plugin": "^2.3.0",
+    "laravel-mix": "^6.0.43",
+    "postcss": "^8.4.7",
+    "tailwindcss": "^3.0.23"
+  }
+}
