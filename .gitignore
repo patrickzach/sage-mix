@@ -2,6 +2,7 @@
 /vendor
 /public/*
 !/public/entrypoints.json
+!/public/manifest.json
 .env
 npm-debug.log
 yarn-error.log
